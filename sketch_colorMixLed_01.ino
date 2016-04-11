@@ -5,7 +5,7 @@ const int ledPin = 2;        // pin that the LED is attached to
 // variables:
 int sensorVal = 0;         // the sensor value
 int sensorMin = 1023;        // minimum sensor value
-int sensorMax = 0;           // maximum sensor value
+int sensorMax = 2;           // maximum sensor value
 int CalibSensorVal = 0;
 
 void setup() 
